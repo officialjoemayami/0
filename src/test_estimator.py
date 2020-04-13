@@ -16,6 +16,7 @@ test_data = {
 "totalHospitalBeds": 678874
 }
 
+class EstimatorTest(unittest.TestCase):
   # check logs
   def test_logs(self):
     tester = app.test_client(self)
