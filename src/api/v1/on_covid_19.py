@@ -4,6 +4,7 @@ from res import usd
 from res.output import OUTPUT
 
 
+
 class COVID():
     def __init__(self, data):
         # collecting variable datapoints

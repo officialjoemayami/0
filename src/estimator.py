@@ -1,3 +1,4 @@
+import sys
 # import libaries
 from flask import Flask, jsonify, request, make_response, got_request_exception
 from flask_restful import Resource, Api
@@ -99,5 +100,5 @@ api.add_resource(JSONOutput, '/api/v1/on-covid-19/json')
 api.add_resource(XMLOutput, '/api/v1/on-covid-19/xml')
 api.add_resource(COVIDLogs, '/api/v1/on-covid-19/logs')
 
-# if __name__ == "__main__":
-#     app.run(debug=True)
+if __name__ == "__main__":
+    app.run(debug=True)
