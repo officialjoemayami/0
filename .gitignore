@@ -9,6 +9,9 @@ setup.cfg
 # node modules
 node_modules/
 
+# myenv
+myenv
+
 # tests
 audits/
 
