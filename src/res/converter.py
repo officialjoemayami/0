@@ -19,7 +19,7 @@ def wm(weeks):
     return f
 def md(months):
     # convert months to days
-    f = months * self.m_d
+    f = months * m_d
     return f
 def mw(months):
     # convert months to weeks
