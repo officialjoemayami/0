@@ -1,0 +1,40 @@
+ 1586765524.0981553 		 /api/v1/on-covid-19/json 		 done in 12:04 seconds
+127.0.0.1 - - [13/Apr/2020 09:12:04] "[35m[1mPOST /api/v1/on-covid-19/json HTTP/1.1[0m" 500 - 		 done in 12:04 seconds
+ * Detected change in 'C:\\GitHub\\AndelaSDG\\src\\res\\output.py', reloading 		 done in 12:29 seconds
+ 1586765888.7757885 		 /api/v1/on-covid-19/json 		 done in 18:08 seconds
+127.0.0.1 - - [13/Apr/2020 09:18:08] "[35m[1mPOST /api/v1/on-covid-19/json HTTP/1.1[0m" 500 - 		 done in 18:08 seconds
+ * Detected change in 'C:\\GitHub\\AndelaSDG\\src\\api\\v1\\on_covid_19.py', reloading 		 done in 18:32 seconds
+ 1586765931.6268878 		 /api/v1/on-covid-19/json 		 done in 18:51 seconds
+127.0.0.1 - - [13/Apr/2020 09:18:51] "[35m[1mPOST /api/v1/on-covid-19/json HTTP/1.1[0m" 500 - 		 done in 18:51 seconds
+ * Detected change in 'C:\\GitHub\\AndelaSDG\\src\\res\\output.py', reloading 		 done in 19:28 seconds
+ 1586766053.7816272 		 /api/v1/on-covid-19/json 		 done in 20:53 seconds
+127.0.0.1 - - [13/Apr/2020 09:20:53] "[35m[1mPOST /api/v1/on-covid-19/json HTTP/1.1[0m" 500 - 		 done in 20:53 seconds
+ * Detected change in 'C:\\GitHub\\AndelaSDG\\src\\api\\v1\\on_covid_19.py', reloading 		 done in 21:16 seconds
+ 1586766152.182916 		 /api/v1/on-covid-19/json 		 done in 22:32 seconds
+127.0.0.1 - - [13/Apr/2020 09:22:32] "[37mPOST /api/v1/on-covid-19/json HTTP/1.1[0m" 200 - 		 done in 22:32 seconds
+ 1586766246.7566075 		 /api/v1/on-covid-19/json 		 done in 24:06 seconds
+127.0.0.1 - - [13/Apr/2020 09:24:06] "[37mPOST /api/v1/on-covid-19/json HTTP/1.1[0m" 200 - 		 done in 24:06 seconds
+127.0.0.1 - - [13/Apr/2020 09:27:12] "[33mPOST /api/v1/on-covid-19/j HTTP/1.1[0m" 404 - 		 done in 27:12 seconds
+ 1586766436.458873 		 /api/v1/on-covid-19 		 done in 27:16 seconds
+127.0.0.1 - - [13/Apr/2020 09:27:16] "[37mPOST /api/v1/on-covid-19 HTTP/1.1[0m" 200 - 		 done in 27:16 seconds
+ 1586766572.5848198 		 /api/v1/on-covid-19 		 done in 29:32 seconds
+127.0.0.1 - - [13/Apr/2020 09:29:32] "[37mPOST /api/v1/on-covid-19 HTTP/1.1[0m" 200 - 		 done in 29:32 seconds
+ 1586767509.9886215 		 /api/v1/on-covid-19 		 done in 45:10 seconds
+127.0.0.1 - - [13/Apr/2020 09:45:10] "[37mPOST /api/v1/on-covid-19 HTTP/1.1[0m" 200 - 		 done in 45:10 seconds
+ * Detected change in 'C:\\GitHub\\AndelaSDG\\src\\res\\usd.py', reloading 		 done in 47:18 seconds
+ 1586767644.1394928 		 /api/v1/on-covid-19 		 done in 47:24 seconds
+127.0.0.1 - - [13/Apr/2020 09:47:24] "[37mPOST /api/v1/on-covid-19 HTTP/1.1[0m" 200 - 		 done in 47:24 seconds
+ * Detected change in 'C:\\GitHub\\AndelaSDG\\src\\res\\usd.py', reloading 		 done in 48:22 seconds
+ 1586767957.8489082 		 /api/v1/on-covid-19 		 done in 52:37 seconds
+127.0.0.1 - - [13/Apr/2020 09:52:37] "[37mPOST /api/v1/on-covid-19 HTTP/1.1[0m" 200 - 		 done in 52:37 seconds
+ * Detected change in 'C:\\GitHub\\AndelaSDG\\src\\api\\v1\\on_covid_19.py', reloading 		 done in 57:19 seconds
+ 1586768335.9417562 		 /api/v1/on-covid-19 		 done in 58:55 seconds
+127.0.0.1 - - [13/Apr/2020 09:58:55] "[37mPOST /api/v1/on-covid-19 HTTP/1.1[0m" 200 - 		 done in 58:55 seconds
+ * Detected change in 'C:\\GitHub\\AndelaSDG\\src\\res\\usd.py', reloading 		 done in 02:56 seconds
+ 1586768617.0756476 		 /api/v1/on-covid-19 		 done in 03:37 seconds
+127.0.0.1 - - [13/Apr/2020 10:03:37] "[37mPOST /api/v1/on-covid-19 HTTP/1.1[0m" 200 - 		 done in 03:37 seconds
+ 1586775031.1784778 		 /api/v1/on-covid-19 		 done in 50:31 seconds
+127.0.0.1 - - [13/Apr/2020 11:50:31] "[37mPOST /api/v1/on-covid-19 HTTP/1.1[0m" 200 - 		 done in 50:31 seconds
+ * Detected change in 'C:\\GitHub\\AndelaSDG\\src\\res\\output.py', reloading 		 done in 55:56 seconds
+ 1586775368.1658106 		 /api/v1/on-covid-19 		 done in 56:08 seconds
+127.0.0.1 - - [13/Apr/2020 11:56:08] "[37mPOST /api/v1/on-covid-19 HTTP/1.1[0m" 200 - 		 done in 56:08 seconds
